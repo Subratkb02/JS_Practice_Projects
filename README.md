@@ -1,1 +1,1 @@
-# JS_10_Projects
+# JS_Practice_Projects
